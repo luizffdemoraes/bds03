@@ -1,4 +1,4 @@
-# ds-event-city
+# ds-department-employee
 Desafio resolvido
 
 Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
